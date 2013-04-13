@@ -41,7 +41,7 @@
             <h3>Your application's environment</h3>
 
             <ul>
-                <li>Location: <code>/home/aloism/sandbox/grok-dancer/GrokDancer</code></li>
+                <li>Location: <code>/home/aloism/sandbox/splat-pollution/SplatPollutioSplatPollution</code></li>
                 <li>Template engine: <code><% settings.template %></code></li>
                 <li>Logger: <code><% settings.logger %></code></li>
                 <li>Environment: <code><% settings.environment %></code></li>
@@ -81,7 +81,7 @@
                 </tr>
                 <tr>
                     <td>Appdir</td>
-                    <td><tt>/home/aloism/sandbox/grok-dancer/GrokDancer</tt></td>
+                    <td><tt>/home/aloism/sandbox/splat-pollution/SplatPollution</tt></td>
                 </tr>
                 <tr>
                     <td>Template engine</td>
@@ -129,7 +129,7 @@
               it's just here to help you get started. The template used to
               generate this content is located in 
               <code>views/index.tt</code>.
-              You can add some routes to <tt>lib/GrokDancer.pm</tt>. 
+              You can add some routes to <tt>lib/SplatPollution.pm</tt>.
               </p>
             </li>
 
@@ -145,4 +145,4 @@
           </ol>
         </div>
       </div>
-    </div>
+    o/div>
